@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Rust/C engineer, Having Fun with web3 stacks & tools**
 
-<img src="https://user-images.githubusercontent.com/47242317/196640420-9df9a798-362e-4f3f-af04-c8deea326984.png" width="20" height="20" /> | r.raajey@gmail.com
+<img src="https://user-images.githubusercontent.com/47242317/196640420-9df9a798-362e-4f3f-af04-c8deea326984.png" width="20" height="20" /> | r.raajey@gmail.com / mail2r.rajeshkumar@gmail.com
 
 <img src="https://user-images.githubusercontent.com/47242317/196640603-eb67d1d9-1200-46ae-be5a-eb7eb65decf2.png" width="20" height="20" /> | [r2kindia](https://www.linkedin.com/in/r2kindia)
 
