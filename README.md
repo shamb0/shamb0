@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 :arrow_right:   https://www.linkedin.com/in/r2kindia
 
-:arrow_right:   @0shamb0
+:arrow_right:   [@0shamb0](https://twitter.com/0shamb0)
 
 
 ### Find my official work for nodle.com [rajesh-nodle](https://github.com/rajesh-nodle) here ...
