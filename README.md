@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Rust, C System Engineer, Having Fun with web3 stacks & tools 
+### Rust, C, System Engineer, Having Fun with web3 stacks & tools 
 
 :arrow_right:   r.raajey@gmail.com / mail2r.rajeshkumar@gmail.com
 
